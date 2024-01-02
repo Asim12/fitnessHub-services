@@ -530,6 +530,6 @@ $config['rewrite_short_tags'] = FALSE;
 | Array:		array('10.0.1.200', '192.168.5.0/24')
 */
 $config['proxy_ips'] = '';
-$config['sid'] = 'ACc21663705acbf496e5740f59f673019c';
-$config['twilio_token'] = '65e5005ecbd1f6977ead8137cd423253';
-$config['service_id'] = 'VA31191ffd305fbfbff0025debc98057e7';
+$config['sid'] = '';
+$config['twilio_token'] = '';
+$config['service_id'] = '';
